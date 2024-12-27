@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_single_crypto"
+        android:icon="@drawable/ic_single_crypto"
+        android:title="@string/single_crypto" />
+
+    <item
+        android:id="@+id/menu_crypto_market"
+        android:icon="@drawable/ic_crypto_market"
+        android:title="@string/crypto_market" />
+
+</menu>
